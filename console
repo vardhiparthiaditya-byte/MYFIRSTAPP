@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Create my first .NET console application"
+git branch -M main
+git remote add origin YOUR_RESPOSITORY_URL
+git push _u origin main 
